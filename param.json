@@ -5,7 +5,7 @@
         "p_file" : "athletes.parquet"
     },
     {
-        "p_rel_url" : "lingakumari/Eswar_Rep/blob/maincoaches.csv",
+        "p_rel_url" : "lingakumari/Eswar_Rep/edit/main/coaches.csv",
         "p_folder" : "coaches",
         "p_file" : "coaches.parquet"
     },
